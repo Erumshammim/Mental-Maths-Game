@@ -1,0 +1,177 @@
+c:\users\abc\source\repos\oopproject\oopproject\bin\Debug\oopproject.exe.config
+c:\users\abc\source\repos\oopproject\oopproject\bin\Debug\oopproject.exe
+c:\users\abc\source\repos\oopproject\oopproject\bin\Debug\oopproject.pdb
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.csprojAssemblyReference.cache
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form1.resources
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form2.resources
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.Properties.Resources.resources
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.csproj.GenerateResource.cache
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.csproj.CoreCompileInputs.cache
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.exe
+c:\users\abc\source\repos\oopproject\oopproject\obj\Debug\oopproject.pdb
+C:\Users\ABC\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form3.resources
+C:\Users\ABC\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form4.resources
+C:\Users\ABC\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form5.resources
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form1.resx
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form2.resx
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form3.resx
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form4.resx
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form5.resx
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form1.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form1.Designer.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form2.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form2.Designer.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form3.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form3.Designer.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form4.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form4.Designer.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form5.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\bin\Debug\Form5.Designer.cs
+C:\Users\ABC\source\repos\oopproject\oopproject\obj\Debug\oopproject.Form6.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form1.resx
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form2.resx
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form3.resx
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form4.resx
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form5.resx
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form1.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form1.Designer.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form2.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form2.Designer.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form3.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form3.Designer.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form4.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form4.Designer.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form5.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Form5.Designer.cs
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.config
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\oopproject.pdb
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csprojResolveAssemblyReference.cache
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form1.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form2.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form3.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form4.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form5.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form6.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Properties.Resources.resources
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.GenerateResource.Cache
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.pdb
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\Interop.WMPLib.dll
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\Interop.WMPLib.dll
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rabbiaNasir\Desktop\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.ResolveComReference.cache
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form1.resx
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form2.resx
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form3.resx
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form4.resx
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form5.resx
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form1.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form1.Designer.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form2.Designer.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form3.Designer.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form4.Designer.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form5.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form5.Designer.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form2.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form3.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Form4.cs
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.config
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\oopproject.pdb
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\Interop.WMPLib.dll
+E:\project\oopfolder\oopproject\oopproject\bin\Debug\AxInterop.WMPLib.dll
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csprojAssemblyReference.cache
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\Interop.WMPLib.dll
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\AxInterop.WMPLib.dll
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.ResolveComReference.cache
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form1.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form2.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form3.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form4.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form5.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form6.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Properties.Resources.resources
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.GenerateResource.cache
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.CoreCompileInputs.cache
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe
+E:\project\oopfolder\oopproject\oopproject\obj\Debug\oopproject.pdb
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.resx
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.resx
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.resx
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.resx
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.resx
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.Designer.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.Designer.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.Designer.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.Designer.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.Designer.cs
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.config
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.manifest
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.application
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csprojResolveAssemblyReference.cache
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\Interop.WMPLib.dll
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\AxInterop.WMPLib.dll
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.ResolveComReference.cache
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form1.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form2.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form3.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form4.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form5.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form6.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Properties.Resources.resources
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.GenerateResource.cache
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.CoreCompileInputs.cache
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe.manifest
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.application
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.pdb
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.pdb
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Interop.WMPLib.dll
+D:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\AxInterop.WMPLib.dll
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csprojAssemblyReference.cache
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\Interop.WMPLib.dll
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\AxInterop.WMPLib.dll
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.ResolveComReference.cache
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form1.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form2.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form3.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form4.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form5.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Form6.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.Properties.Resources.resources
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.GenerateResource.cache
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.csproj.CoreCompileInputs.cache
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.pdb
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.resx
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.resx
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.resx
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.resx
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.Designer.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form3.Designer.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form4.Designer.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.Designer.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.resx
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form1.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form2.Designer.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Form5.cs
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.config
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe.manifest
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.application
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.exe
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\oopproject.pdb
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\Interop.WMPLib.dll
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\bin\Debug\AxInterop.WMPLib.dll
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.exe.manifest
+E:\2nd semester\c++\oopfolder\oopproject\oopproject\obj\Debug\oopproject.application
